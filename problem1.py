@@ -11,3 +11,4 @@ print(sum)
 ##where i made mistake
 #i thought that mod 3 and mod 5 at the same time will be duplicate, but
 #the key was to make sure that they get added once and moved on to the next level.
+#edit
