@@ -12,3 +12,4 @@ print(sum)
 #i thought that mod 3 and mod 5 at the same time will be duplicate, but
 
 #new test
+#new test using -u
